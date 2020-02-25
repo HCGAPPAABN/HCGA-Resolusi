@@ -1,0 +1,8 @@
+RENCANA KONTEN HCGA
+
+- Javascript
+  * ES6
+  *Framework Javascript
+- Php framework
+- Interview
+- Vlog

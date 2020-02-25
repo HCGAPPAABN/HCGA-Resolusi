@@ -5,7 +5,10 @@ RENCANA KONTEN HCGA
   * Framework Javascript
    ^ Angular
    ^ React
+   ^ Vue
+- Struktur data dasar
 - Php framework
  * Laravel
 - Interview
 - Vlog
+- Phython

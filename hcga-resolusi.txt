@@ -2,5 +2,5 @@ HCGA Resolusi
 - Merapikan folder
 - Membangun database
 - Membuat website
-- Membuat rak file
 - Kolaborasi dengan IT
+- Membuat vlog

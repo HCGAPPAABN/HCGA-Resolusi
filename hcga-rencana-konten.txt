@@ -2,9 +2,10 @@ RENCANA KONTEN HCGA
 
 - Javascript
   * ES6
-  *Framework Javascript
-   ^ Vue
+  * Framework Javascript
+   ^ Angular
    ^ React
+   ^ Vue
 - Struktur data dasar
 - Php framework
  * Laravel

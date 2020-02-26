@@ -6,6 +6,7 @@ RENCANA KONTEN HCGA
    ^ Angular
    ^ React
    ^ Vue
+   ^ Tambahan
 - Struktur data dasar
 - Php framework
  * Laravel
